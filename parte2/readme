@@ -1,0 +1,4 @@
+Ejecutar el proyecto en la carpeta que coresponda
+cd .\parte2\
+Luego ejercutar
+node server.js
